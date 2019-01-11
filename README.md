@@ -1,2 +1,4 @@
 # jitu
-util function collection
+utils function collections
+Frequetnly used code bits 
+
